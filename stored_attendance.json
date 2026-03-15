@@ -62,9 +62,9 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 12,
-      "present": 10,
-      "percentage": "83.3%"
+      "held": 13,
+      "present": 11,
+      "percentage": "84.6%"
     },
     {
       "subject": "Technical Training",
@@ -73,6 +73,6 @@
       "percentage": "81.8%"
     }
   ],
-  "overall_percentage": "85.68 %",
-  "timestamp": "14/03/2026 15:49"
+  "overall_percentage": "85.71 %",
+  "timestamp": "15/03/2026 03:39"
 }
