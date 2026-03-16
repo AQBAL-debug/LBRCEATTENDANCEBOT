@@ -2,9 +2,9 @@
   "subjects": [
     {
       "subject": "Compiler Design",
-      "held": 49,
-      "present": 42,
-      "percentage": "85.7%"
+      "held": 50,
+      "present": 43,
+      "percentage": "86.0%"
     },
     {
       "subject": "Cloud Computing",
@@ -44,9 +44,9 @@
     },
     {
       "subject": "Cryptography & Network Security Lab",
-      "held": 36,
-      "present": 33,
-      "percentage": "91.7%"
+      "held": 39,
+      "present": 36,
+      "percentage": "92.3%"
     },
     {
       "subject": "Soft Skills",
@@ -73,6 +73,6 @@
       "percentage": "81.8%"
     }
   ],
-  "overall_percentage": "85.71 %",
-  "timestamp": "16/03/2026 03:42"
+  "overall_percentage": "85.86 %",
+  "timestamp": "16/03/2026 12:05"
 }
