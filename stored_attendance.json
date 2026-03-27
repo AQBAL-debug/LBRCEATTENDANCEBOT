@@ -50,8 +50,8 @@
     },
     {
       "subject": "Soft Skills",
-      "held": 30,
-      "present": 30,
+      "held": 33,
+      "present": 33,
       "percentage": "100.0%"
     },
     {
@@ -73,6 +73,6 @@
       "percentage": "84.6%"
     }
   ],
-  "overall_percentage": "86.89 %",
-  "timestamp": "26/03/2026 16:39"
+  "overall_percentage": "86.98 %",
+  "timestamp": "27/03/2026 03:38"
 }
