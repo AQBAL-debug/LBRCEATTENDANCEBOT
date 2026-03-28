@@ -8,21 +8,21 @@
     },
     {
       "subject": "Cloud Computing",
-      "held": 47,
-      "present": 41,
-      "percentage": "87.2%"
+      "held": 48,
+      "present": 42,
+      "percentage": "87.5%"
     },
     {
       "subject": "Cryptography & Network Security",
-      "held": 54,
+      "held": 56,
       "present": 48,
-      "percentage": "88.9%"
+      "percentage": "85.7%"
     },
     {
       "subject": "Machine Learning",
-      "held": 39,
+      "held": 40,
       "present": 30,
-      "percentage": "76.9%"
+      "percentage": "75.0%"
     },
     {
       "subject": "Software Project Management",
@@ -62,9 +62,9 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 13,
+      "held": 14,
       "present": 11,
-      "percentage": "84.6%"
+      "percentage": "78.6%"
     },
     {
       "subject": "Technical Training",
@@ -73,6 +73,6 @@
       "percentage": "84.6%"
     }
   ],
-  "overall_percentage": "86.98 %",
-  "timestamp": "28/03/2026 03:21"
+  "overall_percentage": "86.21 %",
+  "timestamp": "28/03/2026 11:53"
 }
