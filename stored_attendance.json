@@ -2,14 +2,20 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 3,
-      "present": 3,
+      "held": 4,
+      "present": 4,
+      "percentage": "100.0%"
+    },
+    {
+      "subject": "Human Resources & Project Management",
+      "held": 1,
+      "present": 1,
       "percentage": "100.0%"
     },
     {
       "subject": "Devops",
-      "held": 2,
-      "present": 2,
+      "held": 3,
+      "present": 3,
       "percentage": "100.0%"
     },
     {
@@ -20,12 +26,18 @@
     },
     {
       "subject": "Utilization of Electrical Energy",
+      "held": 3,
+      "present": 3,
+      "percentage": "100.0%"
+    },
+    {
+      "subject": "Constitution of India",
       "held": 2,
       "present": 2,
       "percentage": "100.0%"
     },
     {
-      "subject": "Constitution of India",
+      "subject": "Evaluation of Industry Internship /Mini Project",
       "held": 2,
       "present": 2,
       "percentage": "100.0%"
@@ -43,6 +55,6 @@
       "percentage": "100.0%"
     }
   ],
-  "overall_percentage": "94.12 %",
-  "timestamp": "03/07/2026 04:28"
+  "overall_percentage": "95.65 %",
+  "timestamp": "03/07/2026 13:21"
 }
