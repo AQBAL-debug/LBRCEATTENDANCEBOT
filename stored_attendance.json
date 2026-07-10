@@ -2,21 +2,21 @@
   "subjects": [
     {
       "subject": "Deep Learning",
-      "held": 7,
-      "present": 7,
-      "percentage": "100.0%"
+      "held": 9,
+      "present": 8,
+      "percentage": "88.9%"
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 4,
-      "present": 2,
-      "percentage": "50.0%"
+      "held": 5,
+      "present": 3,
+      "percentage": "60.0%"
     },
     {
       "subject": "Devops",
-      "held": 7,
-      "present": 4,
-      "percentage": "57.1%"
+      "held": 8,
+      "present": 5,
+      "percentage": "62.5%"
     },
     {
       "subject": "Generative AI",
@@ -26,9 +26,9 @@
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 6,
-      "present": 4,
-      "percentage": "66.7%"
+      "held": 7,
+      "present": 5,
+      "percentage": "71.4%"
     },
     {
       "subject": "Prompt Engineering",
@@ -44,8 +44,8 @@
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
-      "held": 2,
-      "present": 2,
+      "held": 4,
+      "present": 4,
       "percentage": "100.0%"
     },
     {
@@ -67,6 +67,6 @@
       "percentage": ""
     }
   ],
-  "overall_percentage": "77.19 %",
-  "timestamp": "10/07/2026 04:36"
+  "overall_percentage": "78.12 %",
+  "timestamp": "10/07/2026 13:28"
 }
