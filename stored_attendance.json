@@ -20,27 +20,27 @@
     },
     {
       "subject": "Generative AI",
-      "held": 27,
-      "present": 18,
-      "percentage": "66.7%"
+      "held": 28,
+      "present": 19,
+      "percentage": "67.9%"
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 20,
-      "present": 14,
-      "percentage": "70.0%"
+      "held": 21,
+      "present": 15,
+      "percentage": "71.4%"
     },
     {
       "subject": "Prompt Engineering",
-      "held": 23,
-      "present": 22,
-      "percentage": "95.7%"
+      "held": 25,
+      "present": 24,
+      "percentage": "96.0%"
     },
     {
       "subject": "Constitution of India",
-      "held": 12,
-      "present": 11,
-      "percentage": "91.7%"
+      "held": 13,
+      "present": 12,
+      "percentage": "92.3%"
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
@@ -67,6 +67,6 @@
       "percentage": "50.0%"
     }
   ],
-  "overall_percentage": "79.67 %",
-  "timestamp": "06/08/2026 03:52"
+  "overall_percentage": "80.21 %",
+  "timestamp": "07/08/2026 03:32"
 }
