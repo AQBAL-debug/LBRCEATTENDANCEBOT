@@ -20,15 +20,15 @@
     },
     {
       "subject": "Generative AI",
-      "held": 37,
-      "present": 23,
-      "percentage": "62.2%"
+      "held": 38,
+      "present": 24,
+      "percentage": "63.2%"
     },
     {
       "subject": "Utilization of Electrical Energy",
-      "held": 28,
-      "present": 19,
-      "percentage": "67.9%"
+      "held": 29,
+      "present": 20,
+      "percentage": "69.0%"
     },
     {
       "subject": "Prompt Engineering",
@@ -62,11 +62,11 @@
     },
     {
       "subject": "ASSOCIATION",
-      "held": 10,
-      "present": 6,
-      "percentage": "60.0%"
+      "held": 12,
+      "present": 8,
+      "percentage": "66.7%"
     }
   ],
-  "overall_percentage": "71.9 %",
-  "timestamp": "22/08/2026 02:00"
+  "overall_percentage": "72.36 %",
+  "timestamp": "22/08/2026 11:47"
 }
