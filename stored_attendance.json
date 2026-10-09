@@ -8,9 +8,9 @@
     },
     {
       "subject": "Human Resources & Project Management",
-      "held": 32,
-      "present": 23,
-      "percentage": "71.9%"
+      "held": 33,
+      "present": 24,
+      "percentage": "72.7%"
     },
     {
       "subject": "Devops",
@@ -20,9 +20,9 @@
     },
     {
       "subject": "Generative AI",
-      "held": 63,
-      "present": 45,
-      "percentage": "71.4%"
+      "held": 64,
+      "present": 46,
+      "percentage": "71.9%"
     },
     {
       "subject": "Utilization of Electrical Energy",
@@ -44,9 +44,9 @@
     },
     {
       "subject": "Evaluation of Industry Internship /Mini Project",
-      "held": 18,
-      "present": 14,
-      "percentage": "77.8%"
+      "held": 20,
+      "present": 16,
+      "percentage": "80.0%"
     },
     {
       "subject": "Technical Training",
@@ -67,6 +67,6 @@
       "percentage": "80.0%"
     }
   ],
-  "overall_percentage": "77.02 %",
-  "timestamp": "09/10/2026 06:35"
+  "overall_percentage": "77.25 %",
+  "timestamp": "09/10/2026 17:31"
 }
